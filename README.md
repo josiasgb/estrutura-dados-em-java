@@ -4,7 +4,7 @@
 ## - Pilhas;
 ## - Filas;
 ## - Listas Encadeadas;
-## - Listas Dupllamente Encadeadas;
+## - Listas Duplamente Encadeadas;
 ## - Listas Circulares;
 ## - Árvores;
 ## - Principais Implementações das Estruturas de Dados do Java.
